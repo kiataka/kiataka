@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kiataka
+- 👋 Hi, I’m @judi
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on inkscape extension
 
